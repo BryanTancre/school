@@ -1,5 +1,3 @@
-# Importing libraries
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -7,7 +5,6 @@ import seaborn as sn
 from sklearn import preprocessing,ensemble
 from sklearn import metrics
 import streamlit as st
-
 from sklearn.preprocessing import MinMaxScaler
 
 st.title("PROJECT SMART AQUAPONICS")
